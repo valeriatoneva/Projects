@@ -1,8 +1,8 @@
 [//]: # "permalink: /index.html"
 
-# 2048 Game
+# Hexagonal 2048 Game
 
-Can be played [here](https://justinxu.me/hexagonal-2048/).
+Can be played [here](http://127.0.0.1:5501/Hexagonal%202048/index.html).
 
 ## Gameplay
 
