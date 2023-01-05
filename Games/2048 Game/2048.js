@@ -60,12 +60,12 @@ document.addEventListener('keyup', (e) => {
         slideRight();
         setTwo();
     }
-    else if (e.code == "ArrowUp") {
+    else if (e.code == "ArrowUp") { // W
         slideUp();
         setTwo();
 
     }
-    else if (e.code == "ArrowDown") {
+    else if (e.code == "ArrowDown") { // S 
         slideDown();
         setTwo();
     }

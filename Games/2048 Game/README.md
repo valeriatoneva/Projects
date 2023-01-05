@@ -2,7 +2,7 @@
 
 # 2048 Game
 
-Can be played [here](http://127.0.0.1:5501/Hexagonal%202048/index.html).
+Can be played [here](http://127.0.0.1:5500/Games/2048%20Game/index.html).
 
 ## Gameplay
 
