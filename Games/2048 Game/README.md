@@ -1,6 +1,6 @@
 [//]: # "permalink: /index.html"
 
-# Hexagonal 2048 Game
+# 2048 Game
 
 Can be played [here](http://127.0.0.1:5501/Hexagonal%202048/index.html).
 
